@@ -35,5 +35,3 @@ Delivery Service Is Available At :
     https://scontent.famm11-1.fna.fbcdn.net/v/t39.30808-6/288051980_4981727648592755_8101714140181232403_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=a26aad&_nc_eui2=AeHLux3EmzDdWdPOwyLlgHrmkzs_8yK_LhWTOz_zIr8uFd53kMVq59nviVdu9MLwREaU-s9RqJY7N-y4kt3bdyPW&_nc_ohc=MbFrGNSP6Y0AX-hKN9X&tn=a7X0GKcuZOSK6uHw&_nc_ht=scontent.famm11-1.fna&oh=00_AT-1tOtvjDAcieIZsGokUTRAgQIorlLGM6SOktAxAUKSDA&oe=62C06A37
 )
 
-# WireFrame
-![](https://scontent.famm7-1.fna.fbcdn.net/v/t39.30808-6/291171728_5149473868503446_2220518700773089892_n.jpg?stp=dst-jpg_s960x960&_nc_cat=108&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeG7uCbF9FxmroamD6bhdehThRV6GwDZBv2FFXobANkG_YWPr66Km4UN-WPUCQoZe_I77MgLLSTCCk40Zxp5BuX_&_nc_ohc=jz_pbgk_IU0AX94BO4i&_nc_ht=scontent.famm7-1.fna&oh=00_AT_jdCrEDkQ_4i5f_K5B_uhHuOI1r4ThrvA72ecsfvBpjg&oe=62C2369D) 
